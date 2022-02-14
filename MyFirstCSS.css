@@ -1,0 +1,16 @@
+header {
+    background-color: floralwhite;
+}
+
+aside {
+    position: absolute;
+    right: 150px;
+  }
+  
+  Junior Full Stack Developer {
+    font-weight: bold ;
+}
+
+hr {
+    border: 3px solid black;
+}
