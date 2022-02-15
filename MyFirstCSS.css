@@ -8,16 +8,9 @@ aside {
     position: absolute;
     right: 50px;
   }
-  
-
-hr {
-    border: 3px solid black;
-    flex-flow: column;
-}
 
 body{
-    flex: auto;
-   
+    flex: auto;   
     background: rgba(221, 218, 20, 0);
     color: rgb(0, 0, 0);
     margin: 0 5px;
@@ -28,14 +21,10 @@ body{
 aside {
     flex-direction:row-reverse;
     flex:auto;
-    background-color: rgb(218, 218, 218);
   }
-
-
   
 html {
     background-color: #ffffff;
-    font-family: trebuchet, geneva, sans-serif;
     border: 0.7em solid;
     flex: 200%;
 }
